@@ -1,5 +1,5 @@
 print('labas')
 a = "jonas"
-b = "urmis"
+b = "us"
 print('band git diff')
 
